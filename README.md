@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abhi-mindphin/abhi-mindphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhijit 👋
 
-Here are some ideas to get you started:
+### Odoo Developer · Frontend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **“Keep it simple, use the Odoo way first.”**
+
+Building **modern, high-performance Odoo experiences** with clean architecture, pixel-perfect UI, and thoughtful interactions.
+
+<p>
+  <a href="https://www.mindphin.com">🌐 Website</a> ·
+  <a href="https://github.com/abhi-mindphin">💻 GitHub</a>
+</p>
+
+</div>
+
+---
+
+### 🛠️ Stack
+
+`Odoo` `Python` `JavaScript` `OWL` `QWeb` `SCSS` `Bootstrap` `PostgreSQL` `Git`
+
+### 🚀 Focus
+
+* Odoo 19 & Enterprise
+* Custom Website & eCommerce
+* Frontend & UI Engineering
+* Performance & Core Web Vitals
+* Animations & Micro-interactions
+
+### ⭐ Featured
+
+* 🌐 **Odoo Websites** — Custom enterprise websites & eCommerce
+* 🎨 **Odoo Themes** — Modern UI, animations & interactions
+* ⚡ **Performance** — Core Web Vitals & frontend optimization
+
+### 🔨 Currently Building
+
+Odoo 19 websites, custom themes, and high-performance frontend experiences.
+
+### 📌 At Mindphin
+
+Building **custom Odoo solutions and modern web experiences** at [Mindphin Technologies](https://www.mindphin.com).
+
+---
+
+<div align="center">
+
+### Let's build something simple, fast & meaningful. ⚡
+
+</div>
